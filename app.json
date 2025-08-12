@@ -37,6 +37,19 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e58f0cee-efa8-41b9-8c9d-b1c54fb24a21"
+      }
+    },
+    "owner": "mediated_reality",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e58f0cee-efa8-41b9-8c9d-b1c54fb24a21"
     }
   }
 }
